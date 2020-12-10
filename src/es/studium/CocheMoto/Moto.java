@@ -1,6 +1,6 @@
 package es.studium.CocheMoto;
 
-public class Moto extends Vehiculo {
+public class Moto extends Vehiculo  {
 	private String cilindrada;
 
 	public Moto() {
